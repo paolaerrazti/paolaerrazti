@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Paola de Buenos Aires, Argentina.</h1>
-- 🌱 Actualmente estoy aprendiendo **Testing QA y desarrollo de aplicaciones móviles con React Native en Codo a Codo.**
+- 🌱 Actualmente estoy aprendiendo Testing QA y desarrollo de aplicaciones móviles con React Native en Codo a Codo. A principio de año realicé un curso de Python Full Stack (198 hs reloj) también en Codo a Codo.
 
 - 📫 Datos de Contacto: **erraztip@gmail.com**
 
